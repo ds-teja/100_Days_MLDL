@@ -1,4 +1,4 @@
-<h1 align="center">All the Detailed Articles</h1>
+<h1>All the Detailed Articles</h1>
 
 
 [Follow Me  on Medium For More](https://medium.com/@tejag311)
