@@ -166,7 +166,7 @@ LeetCode Problem Solved:
    - 2.2 Joint Plot
    - 2.3 Hexbin Plot
   
-Detailed Source Code: [Day 7 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/6.%20Day%206%20-%20Seaborn%20Revision)
+Detailed Source Code: [Day 7 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/7.%20Day%207%20-%20Seaborn%20Uni%2C%20Bi%20Plots)
 
 LinkedIn post: [Day 7 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7111780405048983553-SLde?utm_source=share&utm_medium=member_desktop)
 
