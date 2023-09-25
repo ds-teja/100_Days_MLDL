@@ -81,8 +81,8 @@ Detailed Source Code: [Day 3 Commit](https://github.com/ds-teja/100_Days_MLDL/tr
 LinkedIn post: [Day 3 Update](https://www.linkedin.com/feed/update/urn:li:activity:7110718748705087488?utm_source=share&utm_medium=member_desktop)
 
 LeetCode Problems Solved: 
-  1. [Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/1055117622/)https://leetcode.com/submissions/detail/1055117622/
-  2. [Consecutive Numbers](https://leetcode.com/submissions/detail/1055117622/)https://leetcode.com/submissions/detail/1055117622/
+  1. [Median of Two Sorted Arrays](https://leetcode.com/submissions/detail/1055117622/)
+  2. [Consecutive Numbers](https://leetcode.com/submissions/detail/1055117622/)
 
 ---
 
