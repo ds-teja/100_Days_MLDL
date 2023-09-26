@@ -12,6 +12,8 @@
    - 2.4 Creating 3D Plots
    - 2.5 Live Plot - Incorporating Animations and Interactivity.
 
+Detailed Medium Article: [Advanced Maplotlib: A Comprehensive Guide to Data Visualization](https://medium.com/datadriveninvestor/advanced-maplotlib-a-comprehensive-guide-to-data-visualization-a2263c863492)
+
 LinkedIn post: [Day 5 Update](https://www.linkedin.com/feed/update/urn:li:activity:7111610747989749761?utm_source=share&utm_medium=member_desktop)
 
 LeetCode Problem Solved: 
