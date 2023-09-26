@@ -13,6 +13,8 @@
    - 2.2 Joint Plot
    - 2.3 Hexbin Plot
 
+Detailed Medium Article: [Mastering Seaborn: Demystifying the Complex Plots!](https://medium.com/gitconnected/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be)
+
 LinkedIn post: [Day 7 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7112172883052789760-whBK?utm_source=share&utm_medium=member_desktop)
 
 LeetCode Problem Solved: 

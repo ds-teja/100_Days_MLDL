@@ -167,7 +167,9 @@ LeetCode Problem Solved:
    - 2.1 Regression Plot
    - 2.2 Joint Plot
    - 2.3 Hexbin Plot
-  
+
+Detailed Medium Article: [Mastering Seaborn: Demystifying the Complex Plots!](https://medium.com/gitconnected/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be)
+
 Detailed Source Code: [Day 7 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/7.%20Day%207%20-%20Seaborn%20Uni%2C%20Bi%20Plots)
 
 LinkedIn post: [Day 7 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7112172883052789760-whBK?utm_source=share&utm_medium=member_desktop)
@@ -175,5 +177,27 @@ LinkedIn post: [Day 7 Update](https://www.linkedin.com/posts/ravi6123_100daysmld
 LeetCode Problem Solved: 
   1. [Department Highest Salary](https://leetcode.com/submissions/detail/1058788650/)
 
+
+---
+
+## **DAY 8 (26 Sept 2023):**
+### Topic: Seaborn Multivariate and Matrix Plots
+
+1. Multivariate Plots
+   - 1.1 Using Parameters
+   - 1.2 Relational Plot
+   - 1.3 Facet Grid
+   - 1.4 Pair Plot
+   - 1.5 Pair Grid
+2. Matrix PLots
+   - 2.1 Heat Map
+   - 2.2 Cluster Map
+
+Detailed Source Code: [Day 8 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/8.%20Day%208%20-%20Seaborn%20Complete)
+
+LinkedIn post: [Day 8 Update](https://www.linkedin.com/posts/ravi6123_seaborncompleteguide-activity-7112520467059548161-s6Nv?utm_source=share&utm_medium=member_desktop)
+
+LeetCode Problem Solved: 
+  1. [Rising Temparature](https://leetcode.com/submissions/detail/1059891465/)
 
 ---
