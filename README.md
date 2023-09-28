@@ -119,7 +119,7 @@ LeetCode Problems Solved:
 2. Advanced Features
    - 2.1 Adding annotations and text
    - 2.2 Fill the Area Between Plots
-   - 2.3 Plotting Time Series Data
+   - 2.3 Plotting Time Series Data
    - 2.4 Creating 3D Plots
    - 2.5 Live Plot - Incorporating Animations and Interactivity.
 
@@ -195,9 +195,43 @@ LeetCode Problem Solved:
 
 Detailed Source Code: [Day 8 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/8.%20Day%208%20-%20Seaborn%20Complete)
 
-LinkedIn post: [Day 8 Update](https://www.linkedin.com/posts/ravi6123_seaborncompleteguide-activity-7112520467059548161-s6Nv?utm_source=share&utm_medium=member_desktop)
+LinkedIn post: [Day 8 Update](https://www.linkedin.com/feed/update/urn:li:activity:7112624064350814210?utm_source=share&utm_medium=member_desktop)
 
 LeetCode Problem Solved: 
   1. [Rising Temparature](https://leetcode.com/submissions/detail/1059891465/)
+
+---
+
+## **DAY 9 (27 Sept 2023):**
+### Topic: Plotly Fundamentals
+
+1. Using plotly express to create basic plots
+2. Using graph objects module to customize plots
+
+Detailed Source Code: [Day 9 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/09.%20Day%209%20-%20Plotly%20Fundamentals)
+
+LinkedIn post: [Day 9 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7112871050127806464-7TcG?utm_source=share&utm_medium=member_desktop)
+
+LeetCode Problem Solved: 
+  1. [Game Play Analysis I](https://leetcode.com/submissions/detail/1060604430/)
+
+---
+
+## **DAY 10 (28 Sept 2023):**
+### Topic: Plotly Advanced plots
+
+1. Advanced Plots
+   - Box plots
+   - Violin Plots
+   - Density Heatmaps
+   - Scatter Matrix
+   - 3D Plots
+   - Animated Plots
+
+Detailed Medium Article: 
+
+Detailed Source Code: [Day 10 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/10.%20Day%2010%20-%20Plotly%20Complete)
+
+LinkedIn post: Day 10 Update
 
 ---
