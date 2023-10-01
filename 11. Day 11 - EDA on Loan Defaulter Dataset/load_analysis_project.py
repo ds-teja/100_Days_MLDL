@@ -171,7 +171,6 @@ app_score_col_rmvd.isnull().sum().sort_values()/app_score_col_rmvd.shape[0]
 
 # In[22]:
 
-
 app_score_col_rmvd['CNT_FAM_MEMBERS'] = app_score_col_rmvd['CNT_FAM_MEMBERS'].fillna((app_score_col_rmvd['CNT_FAM_MEMBERS'].mode()[0]))
 
 
