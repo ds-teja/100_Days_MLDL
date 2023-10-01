@@ -193,6 +193,8 @@ LeetCode Problem Solved:
    - 2.1 Heat Map
    - 2.2 Cluster Map
 
+Detailed Medium Article: [Advanced Seaborn: Demystifying the Complex Plots!](https://medium.com/gitconnected/advanced-seaborn-demystifying-the-complex-plots-537582977c8c)
+
 Detailed Source Code: [Day 8 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/8.%20Day%208%20-%20Seaborn%20Complete)
 
 LinkedIn post: [Day 8 Update](https://www.linkedin.com/feed/update/urn:li:activity:7112624064350814210?utm_source=share&utm_medium=member_desktop)
@@ -232,6 +234,43 @@ Detailed Medium Article:
 
 Detailed Source Code: [Day 10 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/10.%20Day%2010%20-%20Plotly%20Complete)
 
-LinkedIn post: Day 10 Update
+LinkedIn post:[Day 10 Update](https://www.linkedin.com/feed/update/urn:li:activity:7113459315197239296?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 11 (29 Sept 2023):**
+### Topic: Data Cleaning on Loan Defaulter Dataset
+
+1. Data Inspection.
+2. Handling missing values.
+3. Data Imputation
+
+Detailed Source Code: [Day 11 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/11.%20Day%2011%20-%20EDA%20on%20Loan%20Defaulter%20Dataset)
+
+LinkedIn post: [Day 11 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7113608223160471552-IEgh?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 12 (30 Sept 2023):**
+### Topic: Data Visualization on Loan Defaulter Dataset
+
+1. Binning of data for better visualizaiton
+2. Univariant analysis
+3. Bivariant analsis
+
+Detailed Source Code: [Day 12 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/12.%20Day%2012%20-%20Data%20viz%20on%20Loan%20Defaulter%20Dataset)
+
+LinkedIn post: [Day 12 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-datascience-activity-7113961645512560641-LlQK?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 13 (1 Oct 2023):**
+### Topic: Exploratory Data Analysis and Insights on Loan Defaulter Dataset
+
+1. Finding insights from the visualizations
+
+Detailed Source Code: [Day 13 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/13.%20Day%2013%20-%20%20Insights%20on%20Loan%20Defaulter%20Dataset)
+
+LinkedIn post: [Day 13 Update]()
 
 ---
