@@ -271,6 +271,17 @@ LinkedIn post: [Day 12 Update](https://www.linkedin.com/posts/ravi6123_100daysml
 
 Detailed Source Code: [Day 13 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/13.%20Day%2013%20-%20%20Insights%20on%20Loan%20Defaulter%20Dataset)
 
-LinkedIn post: [Day 13 Update]()
+LinkedIn post: [Day 13 Update](https://www.linkedin.com/feed/update/urn:li:activity:7114464009575165952?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 14 (2 Oct 2023):**
+### Topic: Descriptive Statistice
+
+1. Finding insights from the visualizations
+
+Detailed Source Code: [Day 14 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/14.%20Day%2014%20-%20Descriptive%20Statistics)
+
+LinkedIn post: [Day 14 Update]()
 
 ---
