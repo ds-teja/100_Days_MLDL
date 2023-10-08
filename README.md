@@ -290,3 +290,88 @@ Detailed Source Code: [Day 14 Commit](https://github.com/ds-teja/100_Days_MLDL/t
 LinkedIn post: [Day 14 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-datascience-statistics-activity-7114690028278059008-ODf-?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 15 (3 Oct 2023):**
+### Topic: Probability for Data Science
+
+1. Probability Basics: Understand the fundamental concepts like events, outcomes, and sample spaces.
+2. Probability Formulas: Master key formulas:
+    - Probability of an Event (P(A)): Number of favorable outcomes / Total number of outcomes.
+    - Conditional Probability (P(A|B)): Probability of A given that B has occurred.
+    - Bayes' Theorem: A powerful tool for updating probabilities based on new evidence.
+    - Law of Large Numbers: As you increase the sample size, the sample mean converges to the population mean. Crucial for statistical inference.
+3. Probability Distributions: Get acquainted with probability distributions:
+    - Normal Distribution: The bell curve is everywhere in data science. It's essential for hypothesis testing and confidence intervals.
+    - Bernoulli Distribution: For binary outcomes (like success or failure).
+    - Binomial Distribution: When dealing with a fixed number of independent Bernoulli trials.
+    - Poisson Distribution: Used for rare events, like customer arrivals at a store.
+
+Detailed Source Code: [Day 15 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/15.%20Day%2015%20-%20Probability%20for%20Data%20Science)
+
+LinkedIn post: [Day 15 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-100daysofdatascience-probability-activity-7115060210829852674-UGg_?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 16 (4 Oct 2023):**
+### Topic: Inferential Statistics
+
+1. Central Limit Theorm
+2. Hypothesis Testing
+3. Deriving p-values
+4. Z-Test
+5. T-Test
+
+Detailed Source Code: [Day 16 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/16.%20Day%2016%20-%20Inferential%20Statistics%20for%20Data%20Science)
+
+LinkedIn post: [Day 16 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-100daysofdatascience-probability-activity-7115411329787576320-HdfT?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 17 (5 Oct 2023):**
+### Topic: Inferential Statistics
+
+1. Chi-Square Test
+2. F-Test/ANOVA
+3. Covariance
+4. Pearson Correlation
+5. Spearman Rank Correlation
+
+Detailed Source Code: [Day 17 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/17.%20Day%2017%20-%20Advanced%20Statistics)
+
+LinkedIn post: [Day 17 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-100daysofdatascience-probability-activity-7115769332252475392-ujh2?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 18 (6 Oct 2023):**
+### Topic: Introduction to Machine Learning
+
+1. What is Machine Learning?
+2. Types of Machine Learning?
+3. Supervised Machine Learning
+4. Unsupervised Machien Learning
+5. Reinforcement Learning
+6. Semi-supervised Learning
+
+Detailed Source Code: [Day 18 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/18.%20Day%2018%20-%20Introduction%20to%20Machine%20Learning)
+
+LinkedIn post: [Day 18 Update](https://www.linkedin.com/feed/update/urn:li:activity:7116277192250073089?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 19 (7 Oct 2023):**
+### Topic: Steps in Machine Learning Project
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Data Preprocessing
+5. Data Splitting
+6. Train the model
+7. Evaluation of a Model
+8. Deploy and Retrain
+
+Detailed Source Code: [Day 19 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/19.%20Day%2019%20-%20Machine%20Learning%20Project%20Workflow)
+
+LinkedIn post: [Day 19 Update](https://www.linkedin.com/feed/update/urn:li:activity:7116707291151699968?utm_source=share&utm_medium=member_desktop)
+
+---
