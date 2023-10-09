@@ -375,3 +375,20 @@ Detailed Source Code: [Day 19 Commit](https://github.com/ds-teja/100_Days_MLDL/t
 LinkedIn post: [Day 19 Update](https://www.linkedin.com/feed/update/urn:li:activity:7116707291151699968?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 20 (8 Oct 2023):**
+### Topic: Exploring Scikit-Learn
+
+1. sklearn.datasets
+2. sklearn.preprocessing
+3. sklearn.model_selection
+4. sklearn.feature_selection
+5. sklearn.linear_model
+6. sklearn.metrics
+And Many more...
+
+Detailed Source Code: [Day 20 Commit]()
+
+LinkedIn post: [Day 20 Update](https://www.linkedin.com/posts/ravi6123_exploring-scikit-learn-features-activity-7116879206185148416-zM1H?utm_source=share&utm_medium=member_desktop)
+
+---
