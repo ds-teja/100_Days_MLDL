@@ -384,11 +384,23 @@ LinkedIn post: [Day 19 Update](https://www.linkedin.com/feed/update/urn:li:activ
 3. sklearn.model_selection
 4. sklearn.feature_selection
 5. sklearn.linear_model
-6. sklearn.metrics
 And Many more...
 
-Detailed Source Code: [Day 20 Commit]()
+Detailed Source Code: [Day 20 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/20.%20Day%2020%20-%20Exploring%20Scikit%20Learn%20through%20Iris%20dataset)
 
 LinkedIn post: [Day 20 Update](https://www.linkedin.com/posts/ravi6123_exploring-scikit-learn-features-activity-7116879206185148416-zM1H?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 21 (9 Oct 2023):**
+### Topic: Advanced Scikit-Learn Features
+
+1. sklearn.metrics
+2. sklearn.compose
+3. sklearn.pipeline
+
+Detailed Source Code: [Day 21 Commit]()
+
+LinkedIn post: [Day 21 Update](https://www.linkedin.com/posts/ravi6123_model-evaluation-and-building-pipeline-with-activity-7117232392653733888-8rXr?utm_source=share&utm_medium=member_desktop)
 
 ---

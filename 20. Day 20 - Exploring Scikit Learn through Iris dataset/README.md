@@ -22,8 +22,6 @@ And Many more...
 - score(): Evaluates model performance using an appropriate metric.
 - GridSearchCV(): Conducts a grid search for hyperparameter tuning.
 
-Detailed Source Code: [Day 20 Commit]()
-
 LinkedIn post: [Day 20 Update](https://www.linkedin.com/posts/ravi6123_exploring-scikit-learn-features-activity-7116879206185148416-zM1H?utm_source=share&utm_medium=member_desktop)
 
 ---
