@@ -399,8 +399,97 @@ LinkedIn post: [Day 20 Update](https://www.linkedin.com/posts/ravi6123_exploring
 2. sklearn.compose
 3. sklearn.pipeline
 
-Detailed Source Code: [Day 21 Commit]()
+Detailed Source Code: [Day 21 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/21.%20Day%2021%20-%20Advanced%20Scikit%20Learn%20Features)
 
 LinkedIn post: [Day 21 Update](https://www.linkedin.com/posts/ravi6123_model-evaluation-and-building-pipeline-with-activity-7117232392653733888-8rXr?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 22 (10 Oct 2023):**
+### Topic: Feature Engineering 1 - Handling Missing Values
+
+1.Handling Missing values
+   - 1.1 Problems of Having Missing values
+   - 1.2 Understanding Types of Missing Values
+   - 1.3 Dealing MV Using SimpleImputer Method
+   - 1.4 Dealing MV Using KNN Imputer Method
+
+2.Handling Categorical Values
+   - 2.1 One Hot Encoding
+   - 2.2 Label Encoding
+   - 2.3 Ordinal Encoding
+   - 2.4 Multi Label Binarizer
+   - 2.5 Count/Frequency Encoding
+   - 2.6 Target Guided Ordinal Encoding
+
+Detailed Source Code: [Day 22 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/22.%20Day%2022%20-%20Feature%20Engineering%20Handling%20Missing%20Values)
+
+LinkedIn post: [Day 22 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-featureengineering-activity-7117594046012813313-EwFj?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 23 (11 Oct 2023):**
+### Topic: Feature Engineering 2 - Feature Scaling
+
+1. Feature Scaling
+   - 1.1 Standardization/Standard Scaler
+   - 1.2 Normalization/MinMax Scaler
+   - 1.3 Max Abs Scaler
+   - 1.4 Robust Scaler
+
+Detailed Source Code: [Day 23 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/23.%20Day%2023%20-%20Feature%20Scaling)
+
+LinkedIn post: [Day 23 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-machinelearning-featurescaling-activity-7117950187720867840-bLlQ?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 24 (12 Oct 2023):**
+### Topic: Feature Engineering 3 - Feature Selection
+
+1. why Feature Selection Matters
+
+2. Types of Feature Selection
+
+3. Filter Methods
+   - Variance Threshold
+   - SelectKBest
+   - SelectPercentile
+   - GenericUnivariateSelect
+   
+4. Wrapper Methods
+   - RFE
+   - RFECV
+   - SelectFromModel
+   - SequentialFeatureSelector
+
+Detailed Source Code: [Day 24 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/24.%20Day%2024%20-%20Feature%20Selection)
+
+LinkedIn post: [Day 24 Update](https://www.linkedin.com/feed/update/urn:li:activity:7118546620815679488?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 25 (13 Oct 2023):**
+### Topic: Feature Engineering 4 - Feature Transformation and Pipelines
+
+1. Feature Transformation
+
+   - Undestanding QQPlot and PP-Plot
+   - logarithmic transformation
+   - reciprocal transformation
+   - square root transformation
+   - exponential transformation 
+   - boxcox transformation
+
+2. Using Pipelines to automate the FE
+   - What are Pipelines
+   - Accessing individual steps in pipeline
+   - Accessing Parameters in Pipeline
+   - Performing Grid Search with Pipeline
+   - Combining Transformers and Pipeline
+   - Visualizing the Pipeline
+
+Detailed Source Code: [Day 25 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/25.%20Day%2025%20-%20Pipelines%20to%20Optimize%20FE)
+
+LinkedIn post: [Day 25 Update](https://www.linkedin.com/posts/ravi6123_feature-engineering-part-2-selection-activity-7118680243069997057-iDfw?utm_source=share&utm_medium=member_desktop)
 
 ---
