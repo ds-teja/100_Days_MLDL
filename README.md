@@ -493,3 +493,97 @@ Detailed Source Code: [Day 25 Commit](https://github.com/ds-teja/100_Days_MLDL/t
 LinkedIn post: [Day 25 Update](https://www.linkedin.com/posts/ravi6123_feature-engineering-part-2-selection-activity-7118680243069997057-iDfw?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 26 (14 Oct 2023):**
+### Topic: Understanding Linear Regression
+
+1. Fundamentals of Linear Regression
+2. Exploring the Assumptions of Linear Regression
+3. Gradient Descent and Loss Function
+4. Evaluation Metrics for Linear Regression
+5. Applications of Linear Regression
+
+Detailed Notes: [Day 26 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/26.%20Day%2026%20-%20Understanding%20Linear%20Regression)
+
+LinkedIn post: [Day 26 Update](https://www.linkedin.com/feed/update/urn:li:activity:7119574330392420352?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 27 (15 Oct 2023):**
+### Topic: Understanding Multicollinearity, and Regularization Techniques
+
+1. Multiple Linear Regression
+2. Multicollinearity
+3. Regularization Techniques
+4. Ridge, Lasso and Elastic Net
+5. Polynomial Regression
+
+Detailed Notes: [Day 27 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/27.%20Day%2027%20-%20Regularization%20Techniques)
+
+LinkedIn post: [Day 27 Update](https://www.linkedin.com/posts/ravi6123_linear-regression-part-2-regularization-activity-7119382916261941248-ddC8?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 28 (16 Oct 2023):**
+### Topic: Understanding the Logistic Regression
+
+1. How does Logistic Regression work
+2. What is a sigmoid curve
+3. Assumptions of Logistic Regression
+4. Cost Function of Logistic Regression
+
+
+Detailed Notes: [Day 28 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/28.%20Day%2028%20-%20Logistic%20Regression)
+
+LinkedIn post: [Day 28 Update](https://www.linkedin.com/posts/ravi6123_understanding-logistic-regression-handwritten-activity-7119760446659694592-rPQW?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 29 (17 Oct 2023):**
+### Topic: Understanding Decision Trees
+
+1. Why do we need Decision Trees
+2. How does Decision Trees work
+3. How do we select a root node
+4. Understanding Entropy, Information Gain
+5. Solving an Example on Entropy
+6. Understanding Gini Impurity
+7. Solving an Exmaple on Gini Impurity
+8. Decision Trees for Regression
+9. Why decsision trees are Greedy Approach
+10. Understanding Pruning
+
+Detailed Notes: [Day 29 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/29.%20Day%2029%20-%20Understanding%20Decision%20Trees)
+
+LinkedIn post: [Day 29 Update](https://www.linkedin.com/feed/update/urn:li:activity:7120331323759579136?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 30 (18 Oct 2023):**
+### Topic: Understanding Ensemble Techniques
+
+1. What are Ensemble Techniques
+2. Understanding Bagging
+3. Understanding Boosting
+4. Understanding Stacking
+
+Detailed Notes: [Day 30 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/30.%20Day%2030%20-%20Understanding%20Ensemble%20Techniques)
+
+LinkedIn post: [Day 30 Update](https://www.linkedin.com/posts/ravi6123_understanding-ensemble-techniques-handwritten-activity-7120472401028530176-Q2DF?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 31 (19 Oct 2023):**
+### Topic: Understanding Random Forests
+
+1. Decision Trees Agreegation
+2. Bagging and Variance Reduction
+3. FEature Subspace sampling
+4. Handling Overfitting
+5. Out of bag error
+
+Detailed Notes: [Day 31 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/31.%20Day%2031-%20Understanding%20Random%20Forests)
+
+LinkedIn post: [Day 31 Update](https://www.linkedin.com/posts/ravi6123_understanding-random-forests-algorithm-activity-7120839500141920256-mTu9?utm_source=share&utm_medium=member_desktop)
+
+---
