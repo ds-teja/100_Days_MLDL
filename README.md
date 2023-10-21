@@ -587,3 +587,19 @@ Detailed Notes: [Day 31 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/ma
 LinkedIn post: [Day 31 Update](https://www.linkedin.com/posts/ravi6123_understanding-random-forests-algorithm-activity-7120839500141920256-mTu9?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 32 (20 Oct 2023):**
+### Topic: Understanding Boosting Algorithms
+
+1. Concept of Boosting
+2. Understanding Ada Boost
+3. Solving an Example on AdaBoost
+4. Understanding Gradient Boosting
+5. Solving an Example on Gradient Boosting
+6. AdaBoost vs Gradient Boosting
+
+Detailed Notes: [Day 32 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/32.%20Day%2032%20-%20Understanding%20AdaBoost%20and%20Gradient%20Boost)
+
+LinkedIn post: [Day 32 Update](https://www.linkedin.com/feed/update/urn:li:activity:7121335130786316288?utm_source=share&utm_medium=member_desktop)
+
+---
