@@ -603,3 +603,18 @@ Detailed Notes: [Day 32 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/ma
 LinkedIn post: [Day 32 Update](https://www.linkedin.com/feed/update/urn:li:activity:7121335130786316288?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 33 (21 Oct 2023):**
+### Topic: Understanding XG Boost Algorithms
+
+1. Concept of XGBoost Algorithm
+2. Boosting Mechanism
+3. Feature Importance Interpretation
+4. Regularization Techniques
+5. Flexibility and Scalability
+
+Detailed Notes: [Day 32 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/33.%20Day%2033%20-%20Understanding%20XG%20Boost%20Algorithm)
+
+LinkedIn post: [Day 32 Update](https://www.linkedin.com/posts/ravi6123_understanding-xg-boost-algorithm-activity-7121566962047979520-OxOA?utm_source=share&utm_medium=member_desktop)
+
+---
