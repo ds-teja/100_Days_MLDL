@@ -634,9 +634,25 @@ LinkedIn post: [Day 33 Update](https://www.linkedin.com/posts/ravi6123_understan
 7. Solving an Example of KD Tree
 8. Understanding Ball Tree
 
-
 Detailed Notes: [Day 34 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/34.%20Understanding%20KNN%20Algorithm)
 
 LinkedIn post: [Day 34 Update](https://www.linkedin.com/feed/update/urn:li:activity:7121940916298244096?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 35 (23 Oct 2023):**
+### Topic: Understanding Support Vector Machines
+
+1. Understanding Concept of SVC
+2. What are Support Vectors
+3. What is Margin
+4. Hard Margin and Soft Margin
+5. Kernelized SVC
+6. Types of Kernels
+7. Understanding SVR
+
+Detailed Notes: [Day 35 Commit]
+
+LinkedIn post: [Day 35 Update]
 
 ---
