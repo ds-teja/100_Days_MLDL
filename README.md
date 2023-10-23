@@ -613,8 +613,30 @@ LinkedIn post: [Day 32 Update](https://www.linkedin.com/feed/update/urn:li:activ
 4. Regularization Techniques
 5. Flexibility and Scalability
 
-Detailed Notes: [Day 32 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/33.%20Day%2033%20-%20Understanding%20XG%20Boost%20Algorithm)
+Detailed Notes: [Day 33 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/33.%20Day%2033%20-%20Understanding%20XG%20Boost%20Algorithm)
 
-LinkedIn post: [Day 32 Update](https://www.linkedin.com/posts/ravi6123_understanding-xg-boost-algorithm-activity-7121566962047979520-OxOA?utm_source=share&utm_medium=member_desktop)
+LinkedIn post: [Day 33 Update](https://www.linkedin.com/posts/ravi6123_understanding-xg-boost-algorithm-activity-7121566962047979520-OxOA?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 34 (22 Oct 2023):**
+### Topic: Understanding K Nearest Neighbours
+
+1. How does K-Nearest Neighbours work
+2. How is Distance Calculated
+   - Eculidean Distance
+   - Hamming Distance
+   - Manhattan Distance
+3. Why is KNN a Lazy Learner
+4. Effects of Choosing the value of K
+5. Different ways to perform KNN
+6. Understanding KD-Tree
+7. Solving an Example of KD Tree
+8. Understanding Ball Tree
+
+
+Detailed Notes: [Day 34 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/34.%20Understanding%20KNN%20Algorithm)
+
+LinkedIn post: [Day 34 Update](https://www.linkedin.com/feed/update/urn:li:activity:7121940916298244096?utm_source=share&utm_medium=member_desktop)
 
 ---
