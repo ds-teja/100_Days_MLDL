@@ -651,8 +651,136 @@ LinkedIn post: [Day 34 Update](https://www.linkedin.com/feed/update/urn:li:activ
 6. Types of Kernels
 7. Understanding SVR
 
-Detailed Notes: [Day 35 Commit]
+Detailed Notes: [Day 35 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/35.%20Day%2035%20-%20Understanding%20Support%20Vector%20Machines)
 
-LinkedIn post: [Day 35 Update]
+LinkedIn post: [Day 35 Update](https://www.linkedin.com/feed/update/urn:li:activity:7122318222451724289?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 36 (24 Oct 2023):**
+### Topic: Understanding Naive Bayes Classifiers
+
+1. Why do we need Naive Bayes
+2. Concept of how it works
+3. Mathematical Intuition of Naive Bayes
+4. Solving an Example on Naive Bayes
+5. Other Bayes Classifiers
+   - Gaussian Naive Bayes Classifier
+   - Multinomial Naive Bayes Classifier
+   - Bernoulli Naive Bayes Classifier
+
+
+Detailed Notes: [Day 36 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/36.%20Day%2036%20-%20Understanding%20Naive%20Bayes%20Algorithms)
+
+LinkedIn post: [Day 36 Update](https://www.linkedin.com/feed/update/urn:li:activity:7123044150786064384?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 37 (25 Oct 2023):**
+### Topic: Understanding Clustering Techniques
+
+1. How clustering is different from classification
+2. Applications of Clustering
+3. What are density based methods
+4. What are Hierarchial based methods
+5. What are partitioning methods
+6. What are Grid Based methods
+7. Main Requirements for Clustering Algorithms
+
+
+Detailed Notes: [Day 37 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/37.%20Day%2037%20-%20Understanding%20Clustering%20Techniques)
+
+LinkedIn post: [Day 37 Update](https://www.linkedin.com/feed/update/urn:li:activity:7123115207236665344?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 38 (26 Oct 2023):**
+### Topic: Understanding K-Means Clustering
+
+1. Concept of K-Means Clustering
+2. Math Intuition Behind K-Means
+3. Cluster Building Process
+4. Edge Case Scenarios of K-Means
+5. Challenges and Improvements in K-Means
+
+
+Detailed Notes: [Day 38 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/38.%20Day%2038%20-%20Understanding%20KMeans%20Clustering)
+
+LinkedIn post: [Day 38 Update](https://www.linkedin.com/feed/update/urn:li:activity:7123513607182548992?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 39 (27 Oct 2023):**
+### Topic: Understanding Hierarchical Clustering
+
+1. Concept of Hierarchical Clustering
+2. Understanding Algorithm
+3. Understanding Linkage Methods
+
+Detailed Notes: [Day 39 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/39.%20Day%2039%20-%20Understanding%20Hierarchical%20Clustering)
+
+LinkedIn post: [Day 39 Update](https://www.linkedin.com/posts/ravi6123_understanding-hierarchical-clustering-activity-7123709489433772033-kEJf?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 40 (28 Oct 2023):**
+### Topic: Understanding DB SCAN Clustering
+
+1. Concept of DB SCAN
+2. Key words in understanding DB SCAN
+3. Algorithm of DB SCAN
+
+Detailed Notes: [Day 40 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/40.%20Day%2040%20-%20Understanding%20DB%20SCAN%20Clustering)
+
+LinkedIn post: [Day 40 Update](https://www.linkedin.com/posts/ravi6123_understanding-db-scan-clustering-activity-7124094142778916864-g9uW?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 41 (29 Oct 2023):**
+### Topic: Evaluation of Clustering Models 
+
+1. Understanding External Measures
+   - Rand Index
+   - Jaccard Co-efficient
+2. Understanding Internal Measures
+   - Cohesion
+   - Seperation
+
+Detailed Notes: [Day 41 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/41.%20Day%2041%20-%20Evaluation%20of%20Clustering%20Models)
+
+LinkedIn post: [Day 41 Update](https://www.linkedin.com/posts/ravi6123_understanding-evaluation-metrics-for-clustering-activity-7124465549970997248-ksLm?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 42 (30 Oct 2023):**
+### Topic: Understanding Curse of Dimensionality
+
+1. Computational Complexity
+2. Data Visualization Challenges
+
+Detailed Notes: [Day 42 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/42.%20Day%2042%20-%20Curse%20of%20Dimensionality)
+
+LinkedIn post: [Day 42 Update](https://www.linkedin.com/posts/ravi6123_understanding-curse-of-dimensionality-activity-7124814014429233152-vUtE?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 43 (31 Oct 2023):**
+### Topic: Understanding Principal Component Analysis
+
+1. Idea Behind PCA
+2. What are Principal Components
+3. Eigen Decomposition Approach
+4. Singular Value Decomposition Approach
+5. Why do we maximize Variance
+6. What is Explained Variance Ratio
+7. How to select optimal no.of Prinicpal Components
+8. Understanding Scree plot
+9. Issues with PCA
+10. Understanding Kernel PCA
+
+
+Detailed Notes: [Day 43 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/43.%20Day%2043%20-%20Understanding%20Principal%20Component%20Analysis)
+
+LinkedIn post: [Day 43 Update](https://www.linkedin.com/feed/update/urn:li:activity:7125218940699435009?utm_source=share&utm_medium=member_desktop)
 
 ---
