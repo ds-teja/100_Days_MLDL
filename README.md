@@ -784,3 +784,9 @@ Detailed Notes: [Day 43 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/ma
 LinkedIn post: [Day 43 Update](https://www.linkedin.com/feed/update/urn:li:activity:7125218940699435009?utm_source=share&utm_medium=member_desktop)
 
 ---
+
+## **DAY 44 (31 Oct 2023):**
+### Topic: Understanding Principal Component Analysis
+
+
+---
