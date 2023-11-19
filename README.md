@@ -786,7 +786,123 @@ LinkedIn post: [Day 43 Update](https://www.linkedin.com/feed/update/urn:li:activ
 ---
 
 ## **DAY 44 (31 Oct 2023):**
-### Topic: Understanding Principal Component Analysis
+### Topic: Supervised Algorithms Revision
 
+**Regression Algorithms**
+1. Linear Regression
+2. Polynomial Regression
+
+**Classfication Algorithms**
+1. K-Nearest Neighbours
+2. Logistic Regression
+ 
+**Both Classification and Regression**
+1. Decision Trees
+2. Random F orest
+3. Gradient Boosting
+4. Ada Boost
+5. Ridge Regression
+6. Lasso Regression
+
+Detailed Notes: [Day 44 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/44.%20Day%2044%20-%20Supervised%20Algorithms%20Revision)
+
+LinkedIn post: [Day 44 Update](https://www.linkedin.com/feed/update/urn:li:activity:7125579931035537408?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 45 (1 Nov 2023):**
+### Topic: UnSupervised Algorithms Revision
+
+**Clustering Algorithms**
+1. K-Means 
+2. DBSCAN
+3. HDBSCAN
+4. Hierarchical 
+
+**Dimensionality Reduction Techniques**
+1. PCA
+2. t-SNE
+3. ICA
+
+**Association Rules**
+1. Apriori
+2. FP-growth
+3. FP-Max
+
+Detailed Notes: [Day 45 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/45.%20Day%2045%20-%20Unsupervised%20Algorithms%20Revision)
+
+LinkedIn post: [Day 45 Update](https://www.linkedin.com/posts/ravi6123_unsupervised-algorithms-quick-summary-activity-7125901882861981696-FE6m?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 46 (2 Nov 2023):**
+### Topic: Big Mart Sales Prediction Project Understanding
+
+1. Understanding the Data
+
+Detailed Notes: [Day 46 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/46.%20Day%2046%20-%20Big%20Mart%20Sales%20Prediction%20Project%20Understanding/EDA)
+
+LinkedIn post: [Day 46 Update](https://www.linkedin.com/posts/ravi6123_github-ds-teja100daysmldl-activity-7126276956186177537-tmsC?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 47 (3 Nov 2023):**
+### Topic: EDA for Big Mart Sales
+
+1. Dealing with Null Values
+2. Data Visulization of the Numeric Columns
+3. Feature Engineering of the Numeric Columns
+
+Detailed Notes: [Day 47 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/47.%20Day%2047%20-%20EDA%20of%20BIg%20Mart%20Sales)
+
+LinkedIn post: [Day 47 Update](https://www.linkedin.com/posts/ravi6123_github-ds-teja100daysmldl-hello-data-activity-7126640417009242112-25O8?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 48 (4 Nov 2023):**
+### Topic: Data Visualization
+
+1. Data Visulization of the Categorical Columns
+2. Feature Engineering of the Categorical Columns
+
+Detailed Notes: [Day 48 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/48.%20Day%2048%20-%20Visualization%20of%20Big%20Mart%20Sales)
+
+LinkedIn post: [Day 48 Update](https://www.linkedin.com/posts/ravi6123_github-ds-teja100daysmldl-hello-data-activity-7127006554800738304-ycOp?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 49 (5 Nov 2023):**
+### Topic: Model Building and Evaluation
+
+Detailed Notes: [Day 49 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/49.%20Day%2049%20-%20Model%20Building%20for%20Big%20Mart%20Sales)
+
+LinkedIn post: [Day 49 Update](https://www.linkedin.com/posts/ravi6123_100daysmldl-datascience-machinelearning-activity-7127370915432058880-ucds?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 50 (6 Nov 2023):**
+### Topic: Hyperparameter Tuning the Models
+
+Detailed Notes: [Day 50 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/50.%20Day%2050%20-%20Hyperparameter%20Tuning%20the%20Models)
+
+LinkedIn post: [Day 50 Update](https://www.linkedin.com/feed/update/urn:li:activity:7128225792345468928?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 51 (7 Nov 2023):**
+### Topic: Referring Other Kaggle Notes for the project
+
+Detailed Notes: [Day 51 Commit](https://github.com/ds-teja/100_Days_MLDL/tree/main/51.%20Day%2051%20-%20Referring%20Other%20Kaggle%20Notes)
+
+LinkedIn post: [Day 51 Update](https://www.linkedin.com/posts/ravi6123_github-ds-teja100daysmldl-hello-data-activity-7128094201421975552-h9-D?utm_source=share&utm_medium=member_desktop)
+
+---
+
+## **DAY 52 (8 Nov 2023):**
+### Topic: History of Deep Learning
+
+Detailed Notes: [Day 52 Commit]()
+
+LinkedIn post: [Day 52 Update](https://www.linkedin.com/posts/ravi6123_github-ds-teja100daysmldl-hello-data-activity-7128803652726648832-ne8m?utm_source=share&utm_medium=member_desktop)
 
 ---
